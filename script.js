@@ -26,7 +26,7 @@ async function main() {
   } else {
     memeCount++;
   }
-  memeCountElement.innerText = today + "'s meme count: " + memeCount;
+  memeCountElement.innerText = today + " meme count: " + memeCount;
   localStorage.setItem("date", today);
   localStorage.setItem("memeCount", memeCount);
   url = await fetchUrl();
