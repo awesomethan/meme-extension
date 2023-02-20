@@ -1,0 +1,1 @@
+This is a google extension that fetches a random meme from https://meme-api.com/gimme and displays it. It also counts the number of memes you have viewed today to make sure you don't waste too much time viewing memes and being unproductive :')
